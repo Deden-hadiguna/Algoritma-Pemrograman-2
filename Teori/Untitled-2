@@ -1,0 +1,9 @@
+program cetakPenjumlahan
+kamus
+    a, b integer
+    c integer
+algoritma
+    input(a=b)
+    c = a+b
+    output(c)
+endprogram
